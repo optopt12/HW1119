@@ -1,0 +1,6 @@
+﻿  Main.c
+c:\users\88692\onedrive\桌面\109360242_黃盛宏\5.34\source\main.c(11): warning C4020: 'exponentiation': 實質參數太多
+c:\users\88692\onedrive\桌面\109360242_黃盛宏\5.34\source\main.c(12): warning C4020: 'exponentiation': 實質參數太多
+c:\users\88692\onedrive\桌面\109360242_黃盛宏\5.34\source\main.c(17): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+c:\users\88692\onedrive\桌面\109360242_黃盛宏\5.34\source\main.c(24): warning C4715: 'exponentiation': 不是所有控制路徑都傳回值
+  HW.vcxproj -> C:\Users\88692\OneDrive\桌面\109360242_黃盛宏\5.34\HW\Debug\HW.exe
